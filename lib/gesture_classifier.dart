@@ -74,6 +74,7 @@ class GestureClassifier {
   }
 
   void dispose() {
+    print('Disposing GestureClassifier...');
     _interpreter?.close();
     _interpreter = null;
   }
