@@ -1,0 +1,10 @@
+open_hand
+fist
+point
+peace
+thumbs_up
+okay
+rock
+three
+call
+gun
